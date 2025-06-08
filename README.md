@@ -1,7 +1,8 @@
-# Hi there, I’m Maayan 👋
+## Hi there, I’m Maayan 👋
 <h1 align="center">Computer Science & Linguistics Grad from Tel Aviv University • Building Fluency in Code 💻</h1>
 
 
+<br>
 
 ## 🚧 Under Construction (Just Like My Brain)
 
@@ -9,8 +10,7 @@ Welcome to my GitHub profile — part journal, part public therapy session.
 
 I graduated with a **B.Sc. in Computer Science & Linguistics**, and now I'm diving into:
 - 🌪 Core dev tools (Git, testing, containers)
-
----
+<br>
 
 
 ## 🧠 The Learning Zone
@@ -25,8 +25,8 @@ I graduated with a **B.Sc. in Computer Science & Linguistics**, and now I'm divi
 | **Virtualenv**  | Clean project isolation for Python development         | Managing environments via `venv` & `pip`       | ✅ Using daily |
 | **Docker**      | Portable environments and devops readiness             | Reading docs, planning simple container tests  | ⏳ Queued     |
 | **CI/CD**       | To automate testing + deployment, work smarter         | Exploring GitHub Actions basics                | ⏳ Queued      |
+<br>
 
----
 
 ## 🧪 Last Seminar Project
 
@@ -39,15 +39,16 @@ For my final linguistics seminar, I trained the model from [Wu et al. (2021)](ht
 - Observed the model behave very differently depending on config — it’s basically a moody teenager
 
 
+<br>
 
----
 
 ## 📂 Featured Experiments & Repos
 - 🛠️
 
 
+<br>
 
----
+
 
 ## 🧑‍💻 Programming Languages
 
@@ -60,9 +61,10 @@ For my final linguistics seminar, I trained the model from [Wu et al. (2021)](ht
 | **C / C++**    | Academic familiarity | Algorithms, data structures in undergrad    |
 | **Markdown**   | ⌛️ Started studying               | Docs, READMEs, academic notes                |
 
+<br>
 
 
----
+
 
 ## 🧰 Tools I am working right now on mastering
 
@@ -75,7 +77,9 @@ For my final linguistics seminar, I trained the model from [Wu et al. (2021)](ht
   <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" />
 </p>
 
----
+<br>
+
+
 
 ## 🏆 GitHub Stats
 ![Maayan Gal’s GitHub stats](https://github-readme-stats.vercel.app/api?username=maayan-gal&show_icons=true)
@@ -85,7 +89,6 @@ For my final linguistics seminar, I trained the model from [Wu et al. (2021)](ht
   <img src="https://github-readme-stats.vercel.app/api?username=maayan-gal&show_icons=true&theme=tokyonight" />
 </p>
 
----
 
 ## 📬 Reach Me
 
