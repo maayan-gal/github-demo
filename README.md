@@ -1,5 +1,5 @@
 # Hi there, I’m Maayan 👋
-<h1 align="left">Computer Science & Linguistics Grad from Tel Aviv University • Building Fluency in Code 💻</h1>
+<h1 align="center">Computer Science & Linguistics Grad from Tel Aviv University • Building Fluency in Code 💻</h1>
 
 
 
@@ -12,9 +12,6 @@ I graduated with a **B.Sc. in Computer Science & Linguistics**, and now I'm divi
 
 ---
 
-## 🧠 The Learning Zone
-
----
 
 ## 🧠 The Learning Zone
 
@@ -31,10 +28,6 @@ I graduated with a **B.Sc. in Computer Science & Linguistics**, and now I'm divi
 
 ---
 
-
-
----
-
 ## 🧪 Last Seminar Project
 
 For my final linguistics seminar, I trained the model from [Wu et al. (2021)](https://aclanthology.org/2021.acl-long.283) on **Differentiable Generative Phonology** using [this neural transducer](https://github.com/shijie-wu/neural-transducer) using new lingiistic data I generated to examine phonology learning.
@@ -45,27 +38,52 @@ For my final linguistics seminar, I trained the model from [Wu et al. (2021)](ht
 - Automated **training, evaluation, and sanity-check rituals**
 - Observed the model behave very differently depending on config — it’s basically a moody teenager
 
+
+
 ---
 
 ## 📂 Featured Experiments & Repos
-- 🛠️ 
+- 🛠️
+
+
 
 ---
 
-## 🧰 Tools I am working on mastering
+## 🧑‍💻 Programming Languages
+
+| 💬 Language    | ✅ Proficiency        | 🛠 Use Cases                                |
+|----------------|----------------------|---------------------------------------------|
+| **Python**     | Advanced (Primary)   | Scripting, CLI tools, ML experiments        |
+| **Java**       | Intermediate         | Object-oriented programming, backend basics |
+| **Bash / Zsh** | Intermediate         | Workflow automation, aliases, scripting     |
+| **JavaScript** | Basic (Exploring)    | Occasional scripting, future frontend plans |
+| **C / C++**    | Academic familiarity | Algorithms, data structures in undergrad    |
+| **Markdown**   | ⌛️ Started studying               | Docs, READMEs, academic notes                |
+
+
+
+---
+
+## 🧰 Tools I am working right now on mastering
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-HubF05032?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" />
 </p>
 
 ---
 
 ## 🏆 GitHub Stats
-![YourName’s GitHub stats](https://github-readme-stats.vercel.app/api?username=YourName&show_icons=true)
+![Maayan Gal’s GitHub stats](https://github-readme-stats.vercel.app/api?username=maayan-gal&show_icons=true)
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maayan-gal&show_icons=true&theme=tokyonight" />
+</p>
 
 ---
 
@@ -74,8 +92,3 @@ For my final linguistics seminar, I trained the model from [Wu et al. (2021)](ht
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/maayangal)  
 [![Email](https://img.shields.io/badge/Email-grey?style=flat-square&logo=gmail)](mailto:maayan.gal0@gmail.com)
 
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" />
-</p>
