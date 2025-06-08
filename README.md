@@ -1,5 +1,5 @@
 ## Hi there, I’m Maayan 👋
-<h1 align="center">Computer Science & Linguistics Grad from Tel Aviv University • Building Fluency in Code 💻</h1>
+<h1 align="center">Computer Science & Linguistics Grad • Building Fluency in Code 💻</h1>
 
 
 <br>
@@ -8,7 +8,7 @@
 
 Welcome to my GitHub profile — part journal, part public therapy session.
 
-I graduated with a **B.Sc. in Computer Science & Linguistics**, and now I'm diving into:
+I graduated with a **B.Sc. in Computer Science & Linguistics** from Tel Aviv University, and now I'm diving into:
 - 🌪 Core dev tools (Git, testing, containers)
 <br>
 
