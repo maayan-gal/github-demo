@@ -81,14 +81,13 @@ For my final linguistics seminar, I trained the model from [Wu et al. (2021)](ht
 
 
 
-## 🏆 GitHub Stats
-![Maayan Gal’s GitHub stats](https://github-readme-stats.vercel.app/api?username=maayan-gal&show_icons=true)
-
+## Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maayan-gal&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=maayan-gal&hide_title=true&hide_border=true&show_icons=true&theme=ambient_gradient"/>
 </p>
 
+<br>
 
 ## 📬 Reach Me
 
